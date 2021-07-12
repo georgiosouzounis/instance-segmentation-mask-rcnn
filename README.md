@@ -17,7 +17,7 @@ This repo contains 3 Google Colab notebooks:
 
 - [mask_rcnn_pretrained_tpu.ipynb](https://github.com/georgiosouzounis/instance-segmentation-mask-rcnn/blob/main/mask-rcnn-pretrained-tpu.ipynb); this is a demo using the COCO dataset classes, with the model pretrained on Google Cloud TPU;
 - [mask_rcnn_pretrained_gpu.ipynb](https://github.com/georgiosouzounis/instance-segmentation-mask-rcnn/blob/main/mask_rcnn_pretrained_gpu.ipynb); this is a demo using the same dataset, only imlemented in a custom manner using openCV;
-- mask_rcnn_custom_gpu.ipynb; this is a Mask R-CNN custom training notebook for fine tuning the model to your data 
+- [mask_rcnn_oiltanks_gpu.ipynb](https://github.com/georgiosouzounis/instance-segmentation-mask-rcnn/blob/main/mask_rcnn_oiltanks_gpu.ipynb); this is a Mask R-CNN custom training notebook for fine tuning the model to your data.
 
 ## usage
 
